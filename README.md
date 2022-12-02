@@ -2,7 +2,7 @@
 GUI based chat application in python
 
 APPLICATIONS:
-  Register
+Register
   Login
   Forgot password-reset password by sending otp to email
   check users online
